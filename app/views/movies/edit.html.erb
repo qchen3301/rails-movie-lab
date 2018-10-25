@@ -1,0 +1,11 @@
+<%= form_for @movie do |form| %>
+    Title: <%= form.text_field :title %> <br>
+    Genre: <%= form.text_field :genre %> <br>
+    Year: <%= form.text_field :year %> <br>
+    Synopsis: <%= form.text_area :synopsis %> <br>
+    Picture URL: <%= form.text_field :picture %> <br>
+    Favorite? <%= form.check_box :favorite %> <br>
+    <%= form.submit %> <br>
+<% end %>
+<br>
+<a href="/fridges">Go Back</a>
