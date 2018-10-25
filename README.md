@@ -1,1 +1,1 @@
-![What a story Mark!][https://raw.githubusercontent.com/qchen3301/Applying-For-College-Checklist/master/assets/initial_wireframes.JPG]
+![What a story Mark](https://raw.githubusercontent.com/qchen3301/rails-movie-lab/master/maxresdefault%20(1).jpg)
