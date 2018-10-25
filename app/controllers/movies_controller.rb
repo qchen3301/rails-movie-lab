@@ -14,7 +14,7 @@ class MoviesController < ApplicationController
 
     def create
         @movie = Movie.create!(movie_params)
-        redirect to "/movies/#{@movie.id}"
+        redirect_to "/movies/#{@movie.id}"
     end
 
     def update
@@ -30,7 +30,7 @@ class MoviesController < ApplicationController
     def destroy
         @movie = Movie.find(params[:id])
         @movie.destroy
-        redirect_to 
+        redirect_to "/movies"
     end
 
     def movie_params
