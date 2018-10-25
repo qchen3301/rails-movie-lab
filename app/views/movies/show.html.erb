@@ -1,10 +1,10 @@
 <h1>
     <ul>
-    <li><%= @movie.title %></li>
-    <li><%= @movie.genre%></li>
-    <li><%= @movie.year %></li>
-    <li><%= @movie.synopsis %></li>
-    <li><%= @movie.picture %></li>
+    <li>Title: <%= @movie.title %></li>
+    <li>Genre: <%= @movie.genre%></li>
+    <li>Year: <%= @movie.year %></li>
+    <li>Synopsis: <%= @movie.synopsis %></li>
+    <li><%=image_tag @movie.picture %></li>
     <li>Favorite? <%= @movie.favorite %></li>
     </ul>
     

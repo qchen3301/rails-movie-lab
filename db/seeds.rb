@@ -13,7 +13,7 @@ Movie.create(
     genre: 'Science Fiction',
     year: 1977,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -22,7 +22,7 @@ Movie.create(
     genre: 'Science Fiction',
     year: 1984,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -31,7 +31,7 @@ Movie.create(
     genre: 'Science Fiction',
     year: 1995,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -40,7 +40,7 @@ Movie.create(
     genre: 'Drama',
     year: 1987,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -49,7 +49,7 @@ Movie.create(
     genre: 'Animation',
     year: 1994,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -58,7 +58,7 @@ Movie.create(
     genre: 'Action',
     year: 2001,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -67,7 +67,7 @@ Movie.create(
     genre: 'Action',
     year: 1978,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -76,7 +76,7 @@ Movie.create(
     genre: 'Science Fiction',
     year: 2013,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -85,7 +85,7 @@ Movie.create(
     genre: 'Drama',
     year: 1998,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -94,7 +94,7 @@ Movie.create(
     genre: 'Fantasy',
     year: 2001,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -103,7 +103,7 @@ Movie.create(
     genre: 'Action',
     year: 1986,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
 
@@ -112,6 +112,6 @@ Movie.create(
     genre: 'Fantasy',
     year: 1985,
     synopsis: '...',
-    picture: '...',
+    picture: 'https://www.placecage.com/200/200',
     favorite: false
 )
